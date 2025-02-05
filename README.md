@@ -9,7 +9,7 @@
 
 📂 **GitHub Repository:**  
 - [Main Repository](https://github.com/programming-hero-web-course1/b10-a9-authentication-AnantaBG)  
-- [Personal Repository](https://github.com/AnantaBG/Zen_Study-AnantaBG)  
+- [Personal Repository](https://github.com/AnantaBG/Zen_Study)  
 
 ## 📖 Table of Contents  
 - [Features](#-features)  
