@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+a.active{
+    background: linear-gradient(to right, #3182ce, #22c55e);
+    border-radius:16%;
+    color: #fff;
+}
+.profile-container {
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  
+  .profile-item label {
+    font-weight: bold;
+  }

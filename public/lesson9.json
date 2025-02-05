@@ -1,0 +1,211 @@
+[
+  {
+    "id": 41,
+    "word": "早く",
+    "pronunciation": "hayaku",
+    "meaning": "early",
+    "part_of_speech": "adverb",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "When referring to something happening early.",
+    "example": "早く寝ましょう。 (Hayaku nemasho.) - Let's go to bed early."
+  },
+  {
+    "id": 42,
+    "word": "遅く",
+    "pronunciation": "oku",
+    "meaning": "late",
+    "part_of_speech": "adverb",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "When referring to something happening late.",
+    "example": "遅くなりました、すみません。 (Okuremashita, sumimasen.) - I'm late, I'm sorry."
+  },
+  {
+    "id": 43,
+    "word": "忙しい",
+    "pronunciation": "isogashii",
+    "meaning": "busy",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "Used to describe a busy schedule.",
+    "example": "最近、とても忙しいです。 (Saikin, totemo isogashii desu.) - I've been very busy lately."
+  },
+  {
+    "id": 44,
+    "word": "疲れた",
+    "pronunciation": "tsukareta",
+    "meaning": "tired",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "Used to express tiredness.",
+    "example": "今日は疲れたので、早く寝ます。 (Kyō wa tsukaretano de, hayaku nemasu.) - I'm tired today, so I'll go to bed early."
+  },
+    {
+      "id": 55,
+      "word": "学校",
+      "pronunciation": "gakkō",
+      "meaning": "school",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "lesson_no": 9,
+      "when_to_say": "Used to refer to an educational institution.",
+      "example": "私は学校に行きます。 (Watashi wa gakkō ni ikimasu.) - I go to school."
+    },
+  {
+      "id": 66,
+      "word": "簡単",
+      "pronunciation": "kantan",
+      "meaning": "easy",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "lesson_no": 9,
+      "when_to_say": "Used to describe something that is easy to do or understand.",
+      "example": "この問題は簡単です。 (Kono mondai wa kantan desu.) - This problem is easy."
+  },
+  {
+    "id": 76,
+      "word": "簡単",
+      "pronunciation": "kantan",
+      "meaning": "easy",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "lesson_no": 9,
+      "when_to_say": "Used to describe something that is easy to do or understand.",
+      "example": "この問題は簡単です。 (Kono mondai wa kantan desu.) - This problem is easy."
+  },
+  {
+    "id": 86,
+    "word": "面白い",
+    "pronunciation": "omoshiroi",
+    "meaning": "interesting, fun",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "Used to describe something that is enjoyable or captivating.",
+    "example": "この映画は面白いです。 (Kono eiga wa omoshiroi desu.) - This movie is interesting."
+  },
+  {
+    "id": 96,
+    "word": "まずい",
+    "pronunciation": "mazui",
+    "meaning": "bad-tasting",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "Used to describe something that tastes bad.",
+    "example": "この料理はまずいです。 (Kono ryōri wa mazuidesu.) - This dish is bad."
+  },
+  {
+    "id": 106,
+    "word": "面白い",
+    "pronunciation": "omoshiroi",
+    "meaning": "interesting, fun",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "Used to describe something that is enjoyable or captivating.",
+    "example": "この映画は面白いです。 (Kono eiga wa omoshiroi desu.) - This movie is interesting."
+  },
+  {
+    "id": 116,
+    "word": "まずい",
+    "pronunciation": "mazui",
+    "meaning": "bad-tasting",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "Used to describe something that tastes bad.",
+    "example": "この料理はまずいです。 (Kono ryōri wa mazuidesu.) - This dish is bad."
+  },
+  {
+    "id": 126,
+    "word": "面白い",
+    "pronunciation": "omoshiroi",
+    "meaning": "interesting, fun",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "Used to describe something that is enjoyable or captivating.",
+    "example": "この映画は面白いです。 (Kono eiga wa omoshiroi desu.) - This movie is interesting."
+  },
+  {
+    "id": 136,
+    "word": "まずい",
+    "pronunciation": "mazui",
+    "meaning": "bad-tasting",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "Used to describe something that tastes bad.",
+    "example": "この料理はまずいです。 (Kono ryōri wa mazuidesu.) - This dish is bad."
+  },
+  {
+    "id": 146,
+    "word": "面白い",
+    "pronunciation": "omoshiroi",
+    "meaning": "interesting, fun",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "Used to describe something that is enjoyable or captivating.",
+    "example": "この映画は面白いです。 (Kono eiga wa omoshiroi desu.) - This movie is interesting."
+  },
+  {
+    "id": 156,
+    "word": "まずい",
+    "pronunciation": "mazui",
+    "meaning": "bad-tasting",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 9,
+    "when_to_say": "Used to describe something that tastes bad.",
+    "example": "この料理はまずいです。 (Kono ryōri wa mazuidesu.) - This dish is bad."
+  },
+    {
+      "id": 170,
+      "word": "曖昧",
+      "pronunciation": "aimai",
+      "meaning": "ambiguous",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "lesson_no": 9,
+      "when_to_say": "Used to describe something that is unclear or indefinite.",
+      "example": "彼の発言は曖昧でよくわかりませんでした。 (Kare no hatsugen wa aimaide yoku wakarimasen deshita.) - His statement was ambiguous and I didn't understand it well."
+    },
+    {
+      "id": 180,
+      "word": "化学",
+      "pronunciation": "kagaku",
+      "meaning": "chemistry",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 9,
+      "when_to_say": "Used to refer to the scientific study of the properties and behavior of matter.",
+      "example": "彼女は化学の実験をしています。 (Kanojo wa kagaku no jikken o shite imasu.) - She is doing a chemistry experiment."
+    },
+    {
+      "id": 190,
+      "word": "経済学",
+      "pronunciation": "keizaigaku",
+      "meaning": "economics",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 9,
+      "when_to_say": "Used to refer to the study of the production, distribution, and consumption of goods and services.",
+      "example": "彼は経済学を専攻しています。 (Kare wa keizaigaku o senkō shite imasu.) - He majors in economics."
+    },
+    {
+      "id": 200,
+      "word": "矛盾",
+      "pronunciation": "mujun",
+      "meaning": "contradiction",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "lesson_no": 9,
+      "when_to_say": "Used to refer to a situation where two or more things are incompatible.",
+      "example": "彼の言動には矛盾があります。 (Kare no gendō ni wa mujun ga arimasu.) - There is a contradiction in his words and actions."
+    }
+  ]

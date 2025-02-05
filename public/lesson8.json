@@ -1,0 +1,211 @@
+[
+  {
+    "id": 37,
+    "word": "昨日",
+    "pronunciation": "kinō",
+    "meaning": "yesterday",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "When referring to the previous day.",
+    "example": "昨日は何をしましたか？ (Kinō wa nani o shimashita ka?) - What did you do yesterday?"
+  },
+  {
+    "id": 38,
+    "word": "今日",
+    "pronunciation": "kyō",
+    "meaning": "today",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "When referring to the current day.",
+    "example": "今日は何曜日ですか？ (Kyō wa naniyōbi desu ka?) - What day is it today?"
+  },
+  {
+    "id": 39,
+    "word": "明日",
+    "pronunciation": "ashita",
+    "meaning": "tomorrow",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "When referring to the next day.",
+    "example": "明日は何をしますか？ (Ashita wa nani o shimasu ka?) - What are you going to do tomorrow?"
+  },
+  {
+    "id": 40,
+    "word": "時間",
+    "pronunciation": "jikan",
+    "meaning": "time",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "When referring to a specific point in time.",
+    "example": "今何時ですか？ (Ima nanji desu ka?) - What time is it now?"
+  },
+    {
+      "id": 54,
+      "word": "家",
+      "pronunciation": "ie",
+      "meaning": "house",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "lesson_no": 8,
+      "when_to_say": "Used to refer to a place of residence.",
+      "example": "私は家にいます。 (Watashi wa ie ni imasu.) - I am at home."
+    },
+  {
+      "id": 65,
+      "word": "難しい",
+      "pronunciation": "muzukashii",
+      "meaning": "difficult",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "lesson_no": 8,
+      "when_to_say": "Used to describe something that is hard to do or understand.",
+      "example": "この漢字は難しいです。 (Kono kanji wa muzukashii desu.) - This kanji is difficult."
+  },
+  {
+    "id": 75,
+      "word": "難しい",
+      "pronunciation": "muzukashii",
+      "meaning": "difficult",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "lesson_no": 8,
+      "when_to_say": "Used to describe something that is hard to do or understand.",
+      "example": "この漢字は難しいです。 (Kono kanji wa muzukashii desu.) - This kanji is difficult."
+  },
+  {
+    "id": 85,
+    "word": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "Used to express sadness.",
+    "example": "私は悲しいです。 (Watashi wa kanashii desu.) - I'm sad."
+  },
+  {
+    "id": 95,
+    "word": "美味しい",
+    "pronunciation": "oishii",
+    "meaning": "delicious",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "Used to describe something that tastes good.",
+    "example": "このラーメンは美味しいです。 (Kono rāmen wa oishii desu.) - This ramen is delicious."
+  },
+  {
+    "id": 105,
+    "word": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "Used to express sadness.",
+    "example": "私は悲しいです。 (Watashi wa kanashii desu.) - I'm sad."
+  },
+  {
+    "id": 115,
+    "word": "美味しい",
+    "pronunciation": "oishii",
+    "meaning": "delicious",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "Used to describe something that tastes good.",
+    "example": "このラーメンは美味しいです。 (Kono rāmen wa oishii desu.) - This ramen is delicious."
+  },
+  {
+    "id": 125,
+    "word": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "Used to express sadness.",
+    "example": "私は悲しいです。 (Watashi wa kanashii desu.) - I'm sad."
+  },
+  {
+    "id": 135,
+    "word": "美味しい",
+    "pronunciation": "oishii",
+    "meaning": "delicious",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "Used to describe something that tastes good.",
+    "example": "このラーメンは美味しいです。 (Kono rāmen wa oishii desu.) - This ramen is delicious."
+  },
+  {
+    "id": 145,
+    "word": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "Used to express sadness.",
+    "example": "私は悲しいです。 (Watashi wa kanashii desu.) - I'm sad."
+  },
+  {
+    "id": 155,
+    "word": "美味しい",
+    "pronunciation": "oishii",
+    "meaning": "delicious",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 8,
+    "when_to_say": "Used to describe something that tastes good.",
+    "example": "このラーメンは美味しいです。 (Kono rāmen wa oishii desu.) - This ramen is delicious."
+  },
+    {
+      "id": 169,
+      "word": "矛盾",
+      "pronunciation": "mujun",
+      "meaning": "contradiction",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 8,
+      "when_to_say": "Used to refer to a situation where two or more things are incompatible.",
+      "example": "彼の言動には矛盾があります。 (Kare no gendō ni wa mujun ga arimasu.) - There is a contradiction in his words and actions."
+    },
+    {
+      "id": 179,
+      "word": "物理学",
+      "pronunciation": "butsurigaku",
+      "meaning": "physics",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 8,
+      "when_to_say": "Used to refer to the branch of science concerned with the nature and properties of matter and energy.",
+      "example": "彼は物理学の教授です。 (Kare wa butsurigaku no kyōju desu.) - He is a professor of physics."
+    },
+    {
+      "id": 189,
+      "word": "法律学",
+      "pronunciation": "hōgaku",
+      "meaning": "law",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 8,
+      "when_to_say": "Used to refer to the study and practice of law.",
+      "example": "彼は法律学の専門家です。 (Kare wa hōgaku no senmongaka desu.) - He is a legal expert."
+    },
+    {
+      "id": 199,
+      "word": "幻想",
+      "pronunciation": "gensō",
+      "meaning": "illusion, fantasy",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "lesson_no": 8,
+      "when_to_say": "Used to refer to something that is not real or based on reality.",
+      "example": "彼は幻想に囚われていました。 (Kare wa gensō ni torawarete imashita.) - He was obsessed with illusions."
+    }
+  ]

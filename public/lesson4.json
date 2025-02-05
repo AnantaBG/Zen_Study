@@ -1,0 +1,235 @@
+[
+
+    {
+      "id": 5,
+      "word": "いいえ",
+      "pronunciation": "iie",
+      "meaning": "no",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 4,
+      "when_to_say": "Used to express disagreement or negation.",
+      "example": "いいえ、違います。 (Iie, chigaimasu.) - No, that's wrong."
+    },
+
+    {
+      "id": 9,
+      "word": "どうぞよろしく",
+      "pronunciation": "dōzo yoroshiku",
+      "meaning": "nice to meet you",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 4,
+      "when_to_say": "Used as a polite greeting when meeting someone for the first time.",
+      "example": "どうぞよろしくお願いします。 (Dōzo yoroshiku onegaishimasu.) - Nice to meet you."
+    },
+    {
+      "id": 15,
+      "word": "ちょっと待って",
+      "pronunciation": "chotto matte",
+      "meaning": "wait a minute",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 4,
+      "when_to_say": "Used to ask someone to wait briefly.",
+      "example": "ちょっと待って、すぐ行きます。 (Chotto matte, sugu ikimasu.) - Wait a minute, I'll go right away."
+    },
+  {
+    "id": 20,
+    "word": "どうもありがとう",
+    "pronunciation": "dōmo arigatō",
+    "meaning": "thanks a lot",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 4,
+    "when_to_say": "Used to express casual gratitude.",
+    "example": "どうもありがとう、助かりました。 (Dōmo arigatō, tasukarimashita.) - Thanks a lot, I'm relieved."
+  },
+  {
+    "id": 26,
+    "word": "ちょっと待って",
+    "pronunciation": "chotto matte",
+    "meaning": "wait a minute",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 4,
+    "when_to_say": "Used to ask someone to wait briefly.",
+    "example": "ちょっと待って、すぐ行きます。 (Chotto matte, sugu ikimasu.) - Wait a minute, I'll go right away."
+  },
+    {
+      "id": 36,
+      "word": "ちょっと待って",
+      "pronunciation": "chotto matte",
+      "meaning": "wait a minute",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 4,
+      "when_to_say": "Used to ask someone to wait briefly.",
+      "example": "ちょっと待って、すぐ行きます。 (Chotto matte, sugu ikimasu.) - Wait a minute, I'll go right away."
+    },
+    {
+      "id": 50,
+      "word": "来る",
+      "pronunciation": "kuru",
+      "meaning": "to come",
+      "part_of_speech": "verb",
+      "difficulty": "easy",
+      "lesson_no": 4,
+      "when_to_say": "Used to express the action of coming to a place.",
+      "example": "友達が家に来ます。 (Tomodachi ga ie ni kimasu.) - My friend is coming to my house."
+    },
+  {
+    "id": 61,
+      "word": "犬",
+      "pronunciation": "inu",
+      "meaning": "dog",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "lesson_no": 4,
+      "when_to_say": "Used to refer to a canine.",
+      "example": "犬が好きです。 (Inu ga suki desu.) - I like dogs."
+  },
+  {
+    "id": 71,
+      "word": "悲しい",
+      "pronunciation": "kanashii",
+      "meaning": "sad",
+      "part_of_speech": "adjective",
+      "difficulty": "easy",
+      "lesson_no": 4,
+      "when_to_say": "Used to express sadness.",
+      "example": "私は悲しいです。 (Watashi wa kanashii desu.) - I'm sad."
+  },
+  {
+    "id": 81,
+    "word": "安い",
+    "pronunciation": "yasui",
+    "meaning": "cheap",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 4,
+    "when_to_say": "Used to describe something that is cheap.",
+    "example": "この本は安いです。 (Kono hon wa yasui desu.) - This book is cheap."
+  },
+  {
+    "id": 91,
+    "word": "嬉しい",
+    "pronunciation": "ureshii",
+    "meaning": "happy",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 4,
+    "when_to_say": "Used to express happiness.",
+    "example": "プレゼントをもらって嬉しいです。 (Purezento o moratte ureshii desu.) - I'm happy to receive a present."
+  },
+  {
+    "id": 101,
+    "word": "安い",
+    "pronunciation": "yasui",
+    "meaning": "cheap",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 4,
+    "when_to_say": "Used to describe something that is cheap.",
+    "example": "この本は安いです。 (Kono hon wa yasui desu.) - This book is cheap."
+  },
+  {
+    "id": 111,
+    "word": "嬉しい",
+    "pronunciation": "ureshii",
+    "meaning": "happy",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 4,
+    "when_to_say": "Used to express happiness.",
+    "example": "プレゼントをもらって嬉しいです。 (Purezento o moratte ureshii desu.) - I'm happy to receive a present."
+  },
+  {
+    "id": 121,
+    "word": "安い",
+    "pronunciation": "yasui",
+    "meaning": "cheap",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 4,
+    "when_to_say": "Used to describe something that is cheap.",
+    "example": "この本は安いです。 (Kono hon wa yasui desu.) - This book is cheap."
+  },
+  {
+    "id": 131,
+    "word": "嬉しい",
+    "pronunciation": "ureshii",
+    "meaning": "happy",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 4,
+    "when_to_say": "Used to express happiness.",
+    "example": "プレゼントをもらって嬉しいです。 (Purezento o moratte ureshii desu.) - I'm happy to receive a present."
+  },
+  {
+    "id": 141,
+    "word": "安い",
+    "pronunciation": "yasui",
+    "meaning": "cheap",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 4,
+    "when_to_say": "Used to describe something that is cheap.",
+    "example": "この本は安いです。 (Kono hon wa yasui desu.) - This book is cheap."
+  },
+  {
+    "id": 151,
+    "word": "嬉しい",
+    "pronunciation": "ureshii",
+    "meaning": "happy",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 4,
+    "when_to_say": "Used to express happiness.",
+    "example": "プレゼントをもらって嬉しいです。 (Purezento o moratte ureshii desu.) - I'm happy to receive a present."
+  },
+    {
+      "id": 165,
+      "word": "曖昧",
+      "pronunciation": "aimai",
+      "meaning": "ambiguous",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "lesson_no": 4,
+      "when_to_say": "Used to describe something that is unclear or indefinite.",
+      "example": "彼の発言は曖昧でよくわかりませんでした。 (Kare no hatsugen wa aimaide yoku wakarimasen deshita.) - His statement was ambiguous and I didn't understand it well."
+    },
+    {
+      "id": 175,
+      "word": "社会学",
+      "pronunciation": "shakaigaku",
+      "meaning": "sociology",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 4,
+      "when_to_say": "Used to refer to the study of society, human social relationships and institutions.",
+      "example": "彼は社会学の教授です。 (Kare wa shakaigaku no kyōju desu.) - He is a professor of sociology."
+    },
+    {
+      "id": 185,
+      "word": "気象学",
+      "pronunciation": "kishōgaku",
+      "meaning": "meteorology",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 4,
+      "when_to_say": "Used to refer to the scientific study of the atmosphere and weather processes.",
+      "example": "彼は気象学の専門家です。 (Kare wa kishōgaku no senmongaka desu.) - He is a meteorologist."
+    },
+    {
+      "id": 195,
+      "word": "矛盾",
+      "pronunciation": "mujun",
+      "meaning": "contradiction",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "lesson_no": 4,
+      "when_to_say": "Used to refer to a situation where two or more things are incompatible.",
+      "example": "彼の言動には矛盾があります。 (Kare no gendō ni wa mujun ga arimasu.) - There is a contradiction in his words and actions."
+    }
+  ]

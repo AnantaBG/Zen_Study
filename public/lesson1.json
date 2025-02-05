@@ -1,0 +1,201 @@
+[
+    {
+      "id": 2,
+      "word": "ありがとう",
+      "pronunciation": "arigatou",
+      "meaning": "thank you",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 1,
+      "when_to_say": "Used to express gratitude.",
+      "example": "ありがとう、助かりました。 (Arigatou, tasukarimashita.) - Thank you, I'm relieved."
+    },
+    {
+      "id": 6,
+      "word": "おはようございます",
+      "pronunciation": "ohayō gozaimasu",
+      "meaning": "good morning",
+      "part_of_speech": "greeting",
+      "difficulty": "hard",
+      "lesson_no": 1,
+      "when_to_say": "Used as a morning greeting.",
+      "example": "おはようございます、今日もいい天気ですね。 (Ohayō gozaimasu, kyō mo ii tenki desu ne.) - Good morning, it's nice weather today."
+    },
+    {
+      "id": 47,
+      "word": "食べる",
+      "pronunciation": "taberu",
+      "meaning": "to eat",
+      "part_of_speech": "verb",
+      "difficulty": "medium",
+      "lesson_no": 1,
+      "when_to_say": "Used to express the action of eating.",
+      "example": "私はご飯を食べます。 (Watashi wa gohan o tabemasu.) - I eat rice."
+    },
+    {
+    "id": 58,
+    "word": "勉強",
+    "pronunciation": "benkyō",
+    "meaning": "study",
+    "part_of_speech": "noun",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "when_to_say": "Used to refer to academic study.",
+    "example": "私は勉強します。 (Watashi wa benkyō shimasu.) - I study."
+  },
+  {
+    "id": 68,
+    "word": "好き",
+    "pronunciation": "suki",
+    "meaning": "like",
+    "part_of_speech": "adjective",
+    "difficulty": "hard",
+    "lesson_no": 1,
+    "when_to_say": "Used to express liking something or someone.",
+    "example": "私は猫が好きです。 (Watashi wa neko ga suki desu.) - I like cats."
+  },
+  {
+    "id": 78,
+    "word": "綺麗",
+    "pronunciation": "kirei",
+    "meaning": "beautiful, clean",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "when_to_say": "Used to describe something that is beautiful or clean.",
+    "example": "花が綺麗です。 (Hana ga kirei desu.) - The flower is beautiful."
+  },
+  {
+    "id": 88,
+    "word": "簡単",
+    "pronunciation": "kantan",
+    "meaning": "easy",
+    "part_of_speech": "adjective",
+    "difficulty": "hard",
+    "lesson_no": 1,
+    "when_to_say": "Used to describe something that is easy to do or understand.",
+    "example": "この問題は簡単です。 (Kono mondai wa kantan desu.) - This problem is easy."
+  },
+  {
+    "id": 98,
+    "word": "可愛い",
+    "pronunciation": "kawaii",
+    "meaning": "cute, lovely",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 1,
+    "whenToUse": "Used to describe something that is cute or adorable.",
+    "example": "猫が可愛いです。 (Neko ga kawaii desu.) - The cat is cute."
+  },
+  {
+    "id": 108,
+    "word": "大丈夫",
+    "pronunciation": "daijōbu",
+    "meaning": "okay, alright",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "whenToUse": "Used to express that something is okay or alright.",
+    "example": "大丈夫ですか？ (Daijōbu desu ka?) - Are you okay?"
+  },
+  {
+    "id": 118,
+    "word": "難しい",
+    "pronunciation": "muzukashii",
+    "meaning": "difficult, hard",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 1,
+    "whenToUse": "Used to describe something that is difficult or challenging.",
+    "example": "この問題は難しいです。 (Kono mondai wa muzukashii desu.) - This problem is difficult."
+  },
+ 
+  {
+    "id": 128,
+    "word": "嬉しい",
+    "pronunciation": "ureshii",
+    "meaning": "happy, glad",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "whenToUse": "Used to express happiness or joy.",
+    "example": "プレゼントをもらって嬉しいです。 (Purezento o moratte ureshii desu.) - I'm happy to receive a present."
+  },
+  {
+    "id": 138,
+    "word": "面白い",
+    "pronunciation": "omoshiroi",
+    "meaning": "interesting, fun",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 1,
+    "whenToUse": "Used to describe something that is interesting or fun.",
+    "example": "この映画はおもしろいです。 (Kono eiga wa omoshiroi desu.) - This movie is interesting."
+  },
+  {
+    "id": 148,
+    "word": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 1,
+    "whenToUse": "Used to express sadness or sorrow.",
+    "example": "悲しいニュースです。 (Kanashii nyūsu desu.) - It's sad news."
+  },
+  {
+    "id": 158,
+    "word": "おいしい",
+    "pronunciation": "oishii",
+    "meaning": "delicious, tasty",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 1,
+    "whenToUse": "Used to describe food that is delicious or tasty.",
+    "example": "このラーメンはおいしいです。 (Kono rāmen wa oishii desu.) - This ramen is delicious."
+  },
+    {
+      "id": 162,
+      "word": "疲れた",
+      "pronunciation": "tsukareta",
+      "meaning": "tired",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "lesson_no": 1,
+      "whenToUse": "Used to express tiredness or fatigue.",
+      "example": "今日は疲れた。 (Kyō wa tsukaretā.) - I'm tired today."
+    },
+    {
+      "id": 172,
+      "word": "倫理",
+      "pronunciation": "rinri",
+      "meaning": "ethics, morality",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 1,
+      "when_to_say": "Used to refer to moral principles that govern a person's behavior or the conducting of an activity.",
+      "example": "彼は高い倫理観を持っています。 (Kare wa takai rinrikan o motte imasu.) - He has a high sense of ethics."
+    },
+    {
+      "id": 182,
+      "word": "数学",
+      "pronunciation": "sūgaku",
+      "meaning": "mathematics",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 1,
+      "when_to_say": "Used to refer to the abstract science of number, quantity, and space.",
+      "example": "彼女は数学が得意です。 (Kanojo wa sūgaku ga tokui desu.) - She is good at math."
+    },
+    {
+      "id": 192,
+      "word": "曖昧",
+      "pronunciation": "aimai",
+      "meaning": "ambiguous",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "lesson_no": 1,
+      "when_to_say": "Used to describe something that is unclear or indefinite.",
+      "example": "彼の発言は曖昧でよくわかりませんでした。 (Kare no hatsugen wa aimaide yoku wakarimasen deshita.) - His statement was ambiguous and I didn't understand it well."
+    }
+  ]

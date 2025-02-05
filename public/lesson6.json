@@ -1,0 +1,201 @@
+[
+    {
+      "id": 14,
+      "word": "すみません、もう一度言ってもらえますか",
+      "pronunciation": "sumimasen, mō ichido itte moraemasuka",
+      "meaning": "excuse me, could you say that again?",
+      "part_of_speech": "expression",
+      "difficulty": "medium",
+      "lesson_no": 6,
+      "when_to_say": "Used when you don't understand something.",
+      "example": "すみません、もう一度言ってもらえますか。 (Sumimasen, mō ichido itte moraemasuka.) - Excuse me, could you say that again?"
+    },
+  {
+    "id": 25,
+    "word": "すみません、もう一度言ってもらえますか",
+    "pronunciation": "sumimasen, mō ichido itte moraemasuka",
+    "meaning": "excuse me, could you say that again?",
+    "part_of_speech": "expression",
+    "difficulty": "medium",
+    "lesson_no": 6,
+    "when_to_say": "Used when you don't understand something.",
+    "example": "すみません、もう一度言ってもらえますか。 (Sumimasen, mō ichido itte moraemasuka.) - Excuse me, could you say that again?"
+  },
+    {
+      "id": 35,
+      "word": "すみません、もう一度言ってもらえますか",
+      "pronunciation": "sumimasen, mō ichido itte moraemasuka",
+      "meaning": "excuse me, could you say that again?",
+      "part_of_speech": "expression",
+      "difficulty": "medium",
+      "lesson_no": 6,
+      "when_to_say": "Used when you don't understand something.",
+      "example": "すみません、もう一度言ってもらえますか。 (Sumimasen, mō ichido itte moraemasuka.) - Excuse me, could you say that again?"
+    },
+    {
+      "id": 52,
+      "word": "聞く",
+      "pronunciation": "kiku",
+      "meaning": "to hear, to listen",
+      "part_of_speech": "verb",
+      "difficulty": "easy",
+      "lesson_no": 6,
+      "when_to_say": "Used to express the action of hearing or listening to something.",
+      "example": "私は音楽を聞きます。 (Watashi wa ongaku o kikimasu.) - I listen to music."
+    },
+  {
+    "id": 63,
+      "word": "車",
+      "pronunciation": "kuruma",
+      "meaning": "car",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "lesson_no": 6,
+      "when_to_say": "Used to refer to a motor vehicle.",
+      "example": "車で出かけます。 (Kuruma de dekakemasu.) - I go out by car."
+  },
+  {
+    "id": 73,
+      "word": "寒い",
+      "pronunciation": "samui",
+      "meaning": "cold",
+      "part_of_speech": "adjective",
+      "difficulty": "easy",
+      "lesson_no": 6,
+      "when_to_say": "Used to describe a cold temperature.",
+      "example": "今日は寒いです。 (Kyō wa samui desu.) - It's cold today."
+  },
+  {
+    "id": 83,
+    "word": "まずい",
+    "pronunciation": "mazui",
+    "meaning": "bad-tasting",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 6,
+    "when_to_say": "Used to describe something that tastes bad.",
+    "example": "この料理はまずいです。 (Kono ryōri wa mazuidesu.) - This dish is bad."
+  },
+  {
+    "id": 93,
+    "word": "暑い",
+    "pronunciation": "atsui",
+    "meaning": "hot",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 6,
+    "when_to_say": "Used to describe a hot temperature.",
+    "example": "今日は暑いです。 (Kyō wa atsui desu.) - It's hot today."
+  },
+  {
+    "id": 103,
+    "word": "まずい",
+    "pronunciation": "mazui",
+    "meaning": "bad-tasting",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 6,
+    "when_to_say": "Used to describe something that tastes bad.",
+    "example": "この料理はまずいです。 (Kono ryōri wa mazuidesu.) - This dish is bad."
+  },
+ 
+  {
+    "id": 113,
+    "word": "暑い",
+    "pronunciation": "atsui",
+    "meaning": "hot",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 6,
+    "when_to_say": "Used to describe a hot temperature.",
+    "example": "今日は暑いです。 (Kyō wa atsui desu.) - It's hot today."
+  },
+  {
+    "id": 123,
+    "word": "まずい",
+    "pronunciation": "mazui",
+    "meaning": "bad-tasting",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 6,
+    "when_to_say": "Used to describe something that tastes bad.",
+    "example": "この料理はまずいです。 (Kono ryōri wa mazuidesu.) - This dish is bad."
+  },
+  {
+    "id": 133,
+    "word": "暑い",
+    "pronunciation": "atsui",
+    "meaning": "hot",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 6,
+    "when_to_say": "Used to describe a hot temperature.",
+    "example": "今日は暑いです。 (Kyō wa atsui desu.) - It's hot today."
+  },
+  {
+    "id": 143,
+    "word": "まずい",
+    "pronunciation": "mazui",
+    "meaning": "bad-tasting",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 6,
+    "when_to_say": "Used to describe something that tastes bad.",
+    "example": "この料理はまずいです。 (Kono ryōri wa mazuidesu.) - This dish is bad."
+  },
+  {
+    "id": 153,
+    "word": "暑い",
+    "pronunciation": "atsui",
+    "meaning": "hot",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 6,
+    "when_to_say": "Used to describe a hot temperature.",
+    "example": "今日は暑いです。 (Kyō wa atsui desu.) - It's hot today."
+  },
+    {
+      "id": 167,
+      "word": "微妙",
+      "pronunciation": "bimyo",
+      "meaning": "subtle, delicate",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "lesson_no": 6,
+      "when_to_say": "Used to describe something that is difficult to perceive or express.",
+      "example": "この料理の味は微妙です。 (Kono ryōri no aji wa bimyo desu.) - The taste of this dish is subtle."
+    },
+    {
+      "id": 177,
+      "word": "経済学",
+      "pronunciation": "keizaigaku",
+      "meaning": "economics",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 6,
+      "when_to_say": "Used to refer to the study of the production, distribution, and consumption of goods and services.",
+      "example": "彼は経済学を専攻しています。 (Kare wa keizaigaku o senkō shite imasu.) - He majors in economics."
+    },
+    {
+      "id": 187,
+      "word": "工学",
+      "pronunciation": "kōgaku",
+      "meaning": "engineering",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 6,
+      "when_to_say": "Used to refer to the application of scientific and mathematical principles to practical problems.",
+      "example": "彼は工学の博士号を持っています。 (Kare wa kōgaku no hakushi-gō o motte imasu.) - He has a doctorate in engineering."
+    },
+    {
+      "id": 197,
+      "word": "曖昧",
+      "pronunciation": "aimai",
+      "meaning": "ambiguous",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "lesson_no": 6,
+      "when_to_say": "Used to describe something that is unclear or indefinite.",
+      "example": "彼の発言は曖昧でよくわかりませんでした。 (Kare no hatsugen wa aimaide yoku wakarimasen deshita.) - His statement was ambiguous and I didn't understand it well."
+    }
+  ]

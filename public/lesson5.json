@@ -1,0 +1,212 @@
+[
+    {
+      "id": 4,
+      "word": "はい",
+      "pronunciation": "hai",
+      "meaning": "yes",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 5,
+      "when_to_say": "Used to express agreement or understanding.",
+      "example": "はい、わかりました。 (Hai, wakarimashita.) - Yes, I understand."
+    },
+    {
+      "id": 10,
+      "word": "ありがとうござい",
+      "pronunciation": "arigatō gozaimasu",
+      "meaning": "thank you very much",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 5,
+      "when_to_say": "Used to express deep gratitude.",
+      "example": "本当にありがとうございます。 (Hontō ni arigatō gozaimasu.) - Thank you very much."
+    },
+  {
+    "id": 18,
+    "word": "すみません、ちょっと失礼します",
+    "pronunciation": "sumimasen, chotto shitsurei shimasu",
+    "meaning": "excuse me, I'll be right back",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 5,
+    "when_to_say": "Used to excuse oneself briefly.",
+    "example": "すみません、ちょっと失礼します。 (Sumimasen, chotto shitsurei shimasu.) - Excuse me, I'll be right back."
+  },
+    {
+      "id": 29,
+      "word": "すみません、ちょっと失礼します",
+      "pronunciation": "sumimasen, chotto shitsurei shimasu",
+      "meaning": "excuse me, I'll be right back",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 5,
+      "when_to_say": "Used to excuse oneself briefly.",
+      "example": "すみません、ちょっと失礼します。 (Sumimasen, chotto shitsurei shimasu.) - Excuse me, I'll be right back."
+    },
+    {
+      "id": 51,
+      "word": "見る",
+      "pronunciation": "miru",
+      "meaning": "to see",
+      "part_of_speech": "verb",
+      "difficulty": "easy",
+      "lesson_no": 5,
+      "when_to_say": "Used to express the action of seeing something.",
+      "example": "私はテレビを見ます。 (Watashi wa terebi o mimasu.) - I watch TV."
+    },
+  {
+    "id": 62,
+      "word": "猫",
+      "pronunciation": "neko",
+      "meaning": "cat",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "lesson_no": 5,
+      "when_to_say": "Used to refer to a feline.",
+      "example": "猫がかわいいです。 (Neko ga kawaii desu.) - Cats are cute."
+  },
+  {
+    "id": 72,
+      "word": "暑い",
+      "pronunciation": "atsui",
+      "meaning": "hot",
+      "part_of_speech": "adjective",
+      "difficulty": "easy",
+      "lesson_no": 5,
+      "when_to_say": "Used to describe a hot temperature.",
+      "example": "今日は暑いです。 (Kyō wa atsui desu.) - It's hot today."
+  },
+
+  {
+    "id": 82,
+    "word": "美味しい",
+    "pronunciation": "oishii",
+    "meaning": "delicious",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 5,
+      "when_to_say": "Used to describe something that tastes good.",
+      "example": "このラーメンは美味しいです。 (Kono rāmen wa oishii desu.) - This ramen is delicious."
+  },
+  {
+    "id": 92,
+    "word": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 5,
+    "when_to_say": "Used to express sadness.",
+    "example": "私は悲しいです。 (Watashi wa kanashii desu.) - I'm sad."
+  },
+  {
+    "id": 102,
+    "word": "美味しい",
+    "pronunciation": "oishii",
+    "meaning": "delicious",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 5,
+    "when_to_say": "Used to describe something that tastes good.",
+    "example": "このラーメンは美味しいです。 (Kono rāmen wa oishii desu.) - This ramen is delicious."
+  },
+  {
+    "id": 112,
+    "word": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 5,
+    "when_to_say": "Used to express sadness.",
+    "example": "私は悲しいです。 (Watashi wa kanashii desu.) - I'm sad."
+  },
+  {
+    "id": 122,
+    "word": "美味しい",
+    "pronunciation": "oishii",
+    "meaning": "delicious",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 5,
+    "when_to_say": "Used to describe something that tastes good.",
+    "example": "このラーメンは美味しいです。 (Kono rāmen wa oishii desu.) - This ramen is delicious."
+  },
+  {
+    "id": 132,
+    "word": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 5,
+    "when_to_say": "Used to express sadness.",
+    "example": "私は悲しいです。 (Watashi wa kanashii desu.) - I'm sad."
+  },
+  {
+    "id": 142,
+    "word": "美味しい",
+    "pronunciation": "oishii",
+    "meaning": "delicious",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 5,
+    "when_to_say": "Used to describe something that tastes good.",
+    "example": "このラーメンは美味しいです。 (Kono rāmen wa oishii desu.) - This ramen is delicious."
+  },
+  {
+    "id": 152,
+    "word": "悲しい",
+    "pronunciation": "kanashii",
+    "meaning": "sad",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 5,
+    "when_to_say": "Used to express sadness.",
+    "example": "私は悲しいです。 (Watashi wa kanashii desu.) - I'm sad."
+  },
+    {
+      "id": 166,
+      "word": "矛盾",
+      "pronunciation": "mujun",
+      "meaning": "contradiction",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 5,
+      "when_to_say": "Used to refer to a situation where two or more things are incompatible.",
+      "example": "彼の言動には矛盾があります。 (Kare no gendō ni wa mujun ga arimasu.) - There is a contradiction in his words and actions."
+    },
+    {
+      "id": 176,
+      "word": "政治学",
+      "pronunciation": "seijigaku",
+      "meaning": "political science",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 5,
+      "when_to_say": "Used to refer to the systematic study of government and politics.",
+      "example": "彼女は政治学に興味を持っています。 (Kanojo wa seijigaku ni kyōmi o motte imasu.) - She is interested in political science."
+    },
+    {
+      "id": 186,
+      "word": "海洋学",
+      "pronunciation": "kaiyōgaku",
+      "meaning": "oceanography",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 5,
+      "when_to_say": "Used to refer to the scientific study of the ocean and its phenomena.",
+      "example": "彼女は海洋学に興味を持っています。 (Kanojo wa kaiyōgaku ni kyōmi o motte imasu.) - She is interested in oceanography."
+    },
+    {
+      "id": 196,
+      "word": "複雑",
+      "pronunciation": "fukuzatsu",
+      "meaning": "complicated",
+      "part_of_speech": "adjective",
+      "difficulty": "medium",
+      "lesson_no": 5,
+      "when_to_say": "Used to describe something that is intricate or involved.",
+      "example": "この問題はとても複雑です。 (Kono mondai wa totemo fukuzatsu desu.) - This problem is very complicated."
+    }
+  ]

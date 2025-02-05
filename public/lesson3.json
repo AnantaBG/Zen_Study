@@ -1,0 +1,282 @@
+[
+    {
+      "id": 1,
+      "word": "こんにちは",
+      "pronunciation": "konnichiwa",
+      "meaning": "hello",
+      "part_of_speech": "greeting",
+      "difficulty": "easy",
+      "lesson_no": 3,
+      "when_to_say": "Used as a general greeting.",
+      "example": "こんにちは、元気ですか？ (Konnichiwa, genki desu ka?) - Hello, how are you?"
+    },
+    {
+      "id": 8,
+      "word": "こんばんは",
+      "pronunciation": "konbanwa",
+      "meaning": "good evening",
+      "part_of_speech": "greeting",
+      "difficulty": "easy",
+      "lesson_no": 3,
+      "when_to_say": "Used as an evening greeting.",
+      "example": "こんばんは、お疲れ様です。 (Konbanwa, otsukaresama desu.) - Good evening, you must be tired."
+    },
+    {
+      "id": 13,
+      "word": "ありがとうございます",
+      "pronunciation": "arigatō gozaimasu",
+      "meaning": "thank you very much",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 3,
+      "when_to_say": "Used to express deep gratitude.",
+      "example": "本当にありがとうございます。 (Hontō ni arigatō gozaimasu.) - Thank you very much."
+    },
+  {
+    "id": 17,
+    "word": "ありがとうござい",
+    "pronunciation": "arigatō gozaimasu",
+    "meaning": "thank you very much",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 3,
+    "when_to_say": "Used to express deep gratitude.",
+    "example": "本当にありがとうございます。 (Hontō ni arigatō gozaimasu.) - Thank you very much."
+  },
+ 
+  {
+    "id": 21,
+    "word": "頑張って",
+    "pronunciation": "ganbatte",
+    "meaning": "do your best",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 3,
+    "when_to_say": "Used to encourage someone.",
+    "example": "頑張ってください。 (Ganbatte kudasai.) - Please do your best."
+  },
+  {
+    "id": 24,
+    "word": "ありがとうございます",
+    "pronunciation": "arigatō gozaimasu",
+    "meaning": "thank you very much",
+    "part_of_speech": "expression",
+    "difficulty": "easy",
+    "lesson_no": 3,
+    "when_to_say": "Used to express deep gratitude.",
+    "example": "本当にありがとうございます。 (Hontō ni arigatō gozaimasu.) - Thank you very much."
+  },
+
+    {
+      "id": 28,
+      "word": "ありがとうござい",
+      "pronunciation": "arigatō gozaimasu",
+      "meaning": "thank you very much",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 3,
+      "when_to_say": "Used to express deep gratitude.",
+      "example": "本当にありがとうございます。 (Hontō ni arigatō gozaimasu.) - Thank you very much."
+    },
+    {
+      "id": 31,
+      "word": "頑張って",
+      "pronunciation": "ganbatte",
+      "meaning": "do your best",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 3,
+      "when_to_say": "Used to encourage someone.",
+      "example": "頑張ってください。 (Ganbatte kudasai.) - Please do your best."
+    },
+    {
+      "id": 34,
+      "word": "ありがとうございます",
+      "pronunciation": "arigatō gozaimasu",
+      "meaning": "thank you very much",
+      "part_of_speech": "expression",
+      "difficulty": "easy",
+      "lesson_no": 3,
+      "when_to_say": "Used to express deep gratitude.",
+      "example": "本当にありがとうございます。 (Hontō ni arigatō gozaimasu.) - Thank you very much."
+    },
+    {
+      "id": 49,
+      "word": "行く",
+      "pronunciation": "iku",
+      "meaning": "to go",
+      "part_of_speech": "verb",
+      "difficulty": "easy",
+      "lesson_no": 3,
+      "when_to_say": "Used to express the action of going to a place.",
+      "example": "私は学校に行きます。 (Watashi wa gakkō ni ikimasu.) - I go to school."
+    },
+  {
+    "id": 60,
+      "word": "家族",
+      "pronunciation": "kazoku",
+      "meaning": "family",
+      "part_of_speech": "noun",
+      "difficulty": "easy",
+      "lesson_no": 3,
+      "when_to_say": "Used to refer to one's family.",
+      "example": "家族と食事をします。 (Kazoku to shokuji o shimasu.) - I eat with my family."
+  },
+  {
+    "id": 70,
+      "word": "嬉しい",
+      "pronunciation": "ureshii",
+      "meaning": "happy",
+      "part_of_speech": "adjective",
+      "difficulty": "easy",
+      "lesson_no": 3,
+      "when_to_say": "Used to express happiness.",
+      "example": "プレゼントをもらって嬉しいです。 (Purezento o moratte ureshii desu.) - I'm happy to receive a present."
+  },
+  {
+    "id": 80,
+    "word": "高い",
+    "pronunciation": "takai",
+    "meaning": "expensive",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 3,
+    "when_to_say": "Used to describe something that is expensive.",
+    "example": "このバッグは高いです。 (Kono baggu wa takai desu.) - This bag is expensive."
+  },
+
+  {
+    "id": 90,
+    "word": "嫌い",
+    "pronunciation": "kirai",
+    "meaning": "dislike",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 3,
+    "when_to_say": "Used to express disliking something or someone.",
+    "example": "私はピーマンが嫌いです。 (Watashi wa pīman ga kirai desu.) - I dislike bell peppers."
+  },
+  {
+    "id": 100,
+    "word": "高い",
+    "pronunciation": "takai",
+    "meaning": "expensive",
+    "part_of_speech": "adjective",
+    "difficulty": "easy",
+    "lesson_no": 3,
+    "when_to_say": "Used to describe something that is expensive.",
+    "example": "このバッグは高いです。 (Kono baggu wa takai desu.) - This bag is expensive."
+  },
+ 
+  {
+    "id": 110,
+    "word": "嫌い",
+    "pronunciation": "kirai",
+    "meaning": "dislike",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "Used to express disliking something or someone.",
+    "example": "私はピーマンが嫌いです。 (Watashi wa pīman ga kirai desu.) - I dislike bell peppers."
+  },
+  
+  {
+    "id": 120,
+    "word": "高い",
+    "pronunciation": "takai",
+    "meaning": "expensive",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "Used to describe something that is expensive.",
+    "example": "このバッグは高いです。 (Kono baggu wa takai desu.) - This bag is expensive."
+  },
+  {
+    "id": 130,
+    "word": "嫌い",
+    "pronunciation": "kirai",
+    "meaning": "dislike",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "Used to express disliking something or someone.",
+    "example": "私はピーマンが嫌いです。 (Watashi wa pīman ga kirai desu.) - I dislike bell peppers."
+  },
+  {
+    "id": 140,
+    "word": "高い",
+    "pronunciation": "takai",
+    "meaning": "expensive",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "Used to describe something that is expensive.",
+    "example": "このバッグは高いです。 (Kono baggu wa takai desu.) - This bag is expensive."
+  },
+  {
+    "id": 150,
+    "word": "嫌い",
+    "pronunciation": "kirai",
+    "meaning": "dislike",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "Used to express disliking something or someone.",
+    "example": "私はピーマンが嫌いです。 (Watashi wa pīman ga kirai desu.) - I dislike bell peppers."
+  },
+  {
+    "id": 160,
+    "word": "高い",
+    "pronunciation": "takai",
+    "meaning": "expensive",
+    "part_of_speech": "adjective",
+    "difficulty": "medium",
+    "lesson_no": 3,
+    "when_to_say": "Used to describe something that is expensive.",
+    "example": "このバッグは高いです。 (Kono baggu wa takai desu.) - This bag is expensive."
+  },
+    {
+      "id": 164,
+      "word": "抽象的",
+      "pronunciation": "chūshōteki",
+      "meaning": "abstract",
+      "part_of_speech": "adjective",
+      "difficulty": "hard",
+      "lesson_no": 3,
+      "when_to_say": "Used to describe something that is theoretical or conceptual.",
+      "example": "哲学的な考え方は抽象的です。 (Tetsugakuteki na kangaekata wa chūshōteki desu.) - Philosophical thinking is abstract."
+    },
+    {
+      "id": 174,
+      "word": "心理学",
+      "pronunciation": "shinrigaku",
+      "meaning": "psychology",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 3,
+      "when_to_say": "Used to refer to the scientific study of the human mind and its functions, especially those affecting behavior in a given context.",
+      "example": "彼女は心理学を勉強しています。 (Kanojo wa shinrigaku o benkyō shite imasu.) - She is studying psychology."
+    },
+    {
+      "id": 184,
+      "word": "地質学",
+      "pronunciation": "chishitsugaku",
+      "meaning": "geology",
+      "part_of_speech": "noun",
+      "difficulty": "hard",
+      "lesson_no": 3,
+      "when_to_say": "Used to refer to the scientific study of the Earth's material composition, structure, processes, and history.",
+      "example": "彼女は地質学の研究者です。 (Kanojo wa chishitsugaku no kenkyūsha desu.) - She is a geologist."
+    },
+    {
+      "id": 194,
+      "word": "幻想",
+      "pronunciation": "gensō",
+      "meaning": "illusion, fantasy",
+      "part_of_speech": "noun",
+      "difficulty": "medium",
+      "lesson_no": 3,
+      "when_to_say": "Used to refer to something that is not real or based on reality.",
+      "example": "彼は幻想に囚われていました。 (Kare wa gensō ni torawarete imashita.) - He was obsessed with illusions."
+    }
+  ]
